@@ -14,7 +14,7 @@ This is a **static clone** of the Netflix homepage built using **HTML and CSS**.
 ✅ Mobile-friendly design  
 
 ## 📸 Screenshots  
-![Netflix Clone UI](https://user-images.githubusercontent.com/your-screenshot.png)  
+
 
 ## 🛠️ Installation & Setup  
 To view the project locally:  
